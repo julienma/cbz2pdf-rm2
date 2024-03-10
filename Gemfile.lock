@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    observer (0.1.2)
+    pkg-config (1.5.6)
+    rmagick (5.4.4)
+      observer (~> 0.1)
+      pkg-config (~> 1.4)
+    rubyzip (2.3.2)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  rmagick
+  rubyzip
+
+BUNDLED WITH
+   2.4.10
